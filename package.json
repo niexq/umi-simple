@@ -4,7 +4,7 @@
   "description": "基于@umijs/create-umi-app生成的脚手架",
   "author": "niexq<niexq0319@gmail.com>(https://niexq.github.io)",
   "license": "MIT",
-  "homepage": "https://www.xiaoqiang.tech/umi-simple",
+  "homepage": "https://niexq.github.io/umi-simple",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
