@@ -1,7 +1,11 @@
 {
   "name": "umi-simple",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "基于@umijs/create-umi-app生成的脚手架",
+  "keywords": [
+    "react-project",
+    "umi-simple"
+  ],
   "author": "niexq<niexq0319@gmail.com>(https://niexq.github.io)",
   "license": "MIT",
   "homepage": "https://niexq.github.io/umi-simple",
@@ -22,6 +26,9 @@
     "type": "git",
     "url": "https://github.com/niexq/umi-simple",
     "branch": "main"
+  },
+  "bugs": {
+    "url": "https://github.com/niexq/umi-simple/issues"
   },
   "lint-staged": {
     "*.{js,jsx,less,md,json}": [
