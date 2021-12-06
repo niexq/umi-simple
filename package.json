@@ -18,6 +18,11 @@
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niexq/umi-simple",
+    "branch": "main"
+  },
   "lint-staged": {
     "*.{js,jsx,less,md,json}": [
       "prettier --write"
